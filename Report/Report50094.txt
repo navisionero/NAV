@@ -1,4 +1,4 @@
-eeeeOBJECT Table 50045 Conf. Control Cambios
+aaaaaaaaeeeeOBJECT Table 50045 Conf. Control Cambios
 {
   OBJECT-PROPERTIES
   {
